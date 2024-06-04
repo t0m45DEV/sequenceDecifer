@@ -1,6 +1,6 @@
 # Sequence Decifer
 
-Given 3 integers $a$, $b$ and $c$, found a general formula $f$ that solves $f(1) = a$, $f(2) = b$ and $f(3) = c$.
+Given 3 integers $a$, $b$ and $c$, find a general formula $f$ that solves $f(1) = a$, $f(2) = b$ and $f(3) = c$.
 
 
 ## Usage
